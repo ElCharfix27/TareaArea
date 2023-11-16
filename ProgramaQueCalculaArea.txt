@@ -1,0 +1,5 @@
+﻿GitHub Copilot 1.116.0.0 (v1.116.0.0@5a26aa711)
+GitHub Copilot Agent v1.116.0
+[DEBUG] [agent] [2023-11-16T21:34:35.513Z] Agent service starting
+[DEBUG] [agent] [2023-11-16T21:34:35.793Z] Telemetry initialized
+Auth Status: NotSignedIn
